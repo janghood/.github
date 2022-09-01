@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://wash-painting.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://shuimo.janghood.com" target="_blank" rel="noopener noreferrer">
     <img width="180" src="https://raw.githubusercontent.com/higuaifan/wash-painting-ui/master/src/assets/logo.png" 
         alt="wash-painting logo">
   </a>
