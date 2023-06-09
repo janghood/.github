@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://shuimo.janghood.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/janghood" target="_blank" rel="noopener noreferrer">
     <img width="180" src="https://raw.githubusercontent.com/janghood/.github/main/img/janghood.png" 
-        alt="shuimo logo">
+        alt="janghood logo">
   </a>
 </p>
 <h1 align="center">
